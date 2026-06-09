@@ -1,0 +1,11 @@
+{
+    "movies_parsed": 2000,
+    "html_files": 2016,
+    "detail_pages": 2000,
+    "category_pages": 12,
+    "category_card_count": 2000,
+    "search_card_count": 2000,
+    "player_pages": 2000,
+    "missing_analytics": 0,
+    "image_files_in_zip_tree": 0
+}
